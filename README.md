@@ -11,3 +11,7 @@
 - For the **code** please refer to `diagonalization.py`
 - The documentation in the pdf is not updated yet
 - **Given key matrix**: X = [[3,-2,-1],[2,-7,-7],[-2,10,10]]
+
+## 3. Least Squares
+
+- Still working on it
