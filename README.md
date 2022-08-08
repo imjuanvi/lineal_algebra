@@ -6,6 +6,8 @@
 - In this script the inverse of a matrix of order n is calculated.
 - **Given key matrix**: X = [[2,0,1],[1,1,-4],[3,7,-3]]
 
-## 2. Diagonal Matrix and Singular Values
+## 2. Diagonal Matrix and Eigen Values/Vectors
 
-- ... Still working on it ...
+- For the **code** please refer to `diagonalization.py`
+- The documentation in the pdf is not updated yet
+- **Given key matrix**: X = [[3,-2,-1],[2,-7,-7],[-2,10,10]]
