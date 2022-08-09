@@ -19,5 +19,5 @@ For now, the codes are written with a **Given key matrix**, in a future I will a
 
 - For the **code** please refer to `least-squares.py`
 - The documentation in the pdf is not updated yet (I will complete this tomorrow 10/08/2022)
-- The data we will use is from the file 'student-mat.csv' ; We will compare the grades from first period to the final grades and see if there's a correlation
+- The data we will use is from the file `student-mat.csv` ; We will compare the grades from first period to the final grades and see if there's a correlation
 - For linear regression I will upload an explanatory paper later and we will see if there is correlation by hypothesis testing, but for now in the algebra section it will serve as an explanation of least squares.
