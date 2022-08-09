@@ -17,4 +17,6 @@ For now, the codes are written with a **Given key matrix**, in a future I will a
 
 ## 3. Least Squares
 
-- Still working on it
+- For the **code** please refer to `least-squares.py`
+- The documentation in the pdf is not updated yet (I will complete this tomorrow 10/08/2022)
+
